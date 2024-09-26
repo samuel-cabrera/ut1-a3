@@ -3,4 +3,4 @@
 ## Enlaces
 
 * [ enlace readme de lnd](../lnd/README.md)
-* [Enlace a ut-a2](../ut1-a2/pagina.md)
+* [Enlace a ut-a2](../lnd/ut1/pagina.md)
